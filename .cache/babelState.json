@@ -7,6 +7,16 @@
           "options": {}
         },
         {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\gatsby-plugin-image\\dist\\babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "C:\\Users\\Corey\\Desktop\\home-dashboard\\.cache\\caches\\gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "options": {}
+        },
+        {
           "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
@@ -39,6 +49,16 @@
       "plugins": [
         {
           "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\gatsby-plugin-image\\dist\\babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "C:\\Users\\Corey\\Desktop\\home-dashboard\\.cache\\caches\\gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {
@@ -77,6 +97,16 @@
           "options": {}
         },
         {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\gatsby-plugin-image\\dist\\babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "C:\\Users\\Corey\\Desktop\\home-dashboard\\.cache\\caches\\gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "options": {}
+        },
+        {
           "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
@@ -109,6 +139,16 @@
       "plugins": [
         {
           "name": "babel-plugin-lodash",
+          "options": {}
+        },
+        {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\gatsby-plugin-image\\dist\\babel-plugin-parse-static-images.js",
+          "options": {
+            "cacheDir": "C:\\Users\\Corey\\Desktop\\home-dashboard\\.cache\\caches\\gatsby-plugin-image"
+          }
+        },
+        {
+          "name": "C:\\Users\\Corey\\Desktop\\home-dashboard\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         },
         {

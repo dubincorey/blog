@@ -1,16 +1,19 @@
 .container {
   margin: auto;
   max-width: 500px;
-  font-family: sans-serif;
 }
 
 .heading {
-  color: rebeccapurple;
+  font-size: 5rem;
+  font: helvetica neue;
+  color: #212121;
 }
 .nav-links {
+  padding-top: 15%;
   display: flex;
   list-style: none;
   padding-left: 0;
+  text-decoration: none;
 }
 .nav-link-item {
   padding-right: 2rem;
@@ -18,11 +21,54 @@
 .nav-link-text {
   color: black;
 }
-/* ... your existing styles */
 
-.site-title {
-  font-size: 3rem;
-  color: gray;
-  font-weight: 700;
-  margin: 3rem 0;
+body {
+  background-color: #00a6d2;
+}
+
+.outer-border {
+  margin: 50px 30px;
+  overflow-y: auto;
+}
+
+.decor {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  position: fixed;
+  z-index: 100;
+}
+
+.landing-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  margin: 0px 20px;
+  min-height: 100%;
+}
+
+.title {
+  width: 80%;
+  letter-spacing: 7px;
+  margin-bottom: 12px;
+}
+
+.bio {
+  width: 80%;
+  z-index: 1;
+}
+
+p {
+  color: black;
+  font-size: 1.5rem;
+  line-height: 1.5em;
+}
+
+.inner-border {
+  margin: 30px 50px;
 }
