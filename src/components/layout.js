@@ -6,7 +6,6 @@ import {
   navLinks,
   navLinkItem,
   navLinkText,
-  siteTitle,
   outerBorder,
   decor,
   innerBorder,
@@ -31,9 +30,6 @@ const Layout = ({ pageTitle, children }) => {
             <title>
               {pageTitle} | {data.site.siteMetadata.title}
             </title>
-            <header className={siteTitle}>
-              {data.site.siteMetadata.title}
-            </header>
             <nav>
               <ul className={navLinks}>
                 <li className={navLinkItem}>

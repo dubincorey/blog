@@ -6,11 +6,14 @@
 .heading {
   font-size: 5rem;
   font: helvetica neue;
+  color: #212121;
 }
 .nav-links {
+  padding-top: 15%;
   display: flex;
   list-style: none;
   padding-left: 0;
+  text-decoration: none;
 }
 .nav-link-item {
   padding-right: 2rem;
@@ -19,15 +22,8 @@
   color: black;
 }
 
-.site-title {
-  font-size: 3rem;
-  color: gray;
-  font-weight: 700;
-  margin: 3rem 0;
-}
-
 body {
-  background-color: orange;
+  background-color: #00a6d2;
 }
 
 .outer-border {
@@ -41,7 +37,7 @@ body {
   left: 0;
   right: 0;
   border-style: solid;
-  border-color: #f5f5f5;
+  border-color: black;
   border-width: 1px;
   position: fixed;
   z-index: 100;
@@ -68,7 +64,7 @@ body {
 }
 
 p {
-  color: white;
+  color: black;
   font-size: 1.5rem;
   line-height: 1.5em;
 }
