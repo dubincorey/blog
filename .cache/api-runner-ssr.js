@@ -1,11 +1,11 @@
 var plugins = [{
       name: 'gatsby-plugin-image',
-      plugin: require('C:/Users/Corey/Desktop/home-dashboard/node_modules/gatsby-plugin-image/gatsby-ssr'),
+      plugin: require('C:/Users/Corey/Desktop/blog/node_modules/gatsby-plugin-image/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-mdx',
-      plugin: require('C:/Users/Corey/Desktop/home-dashboard/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
-      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\Corey\\Desktop\\home-dashboard"},
+      plugin: require('C:/Users/Corey/Desktop/blog/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      options: {"plugins":[],"extensions":[".mdx"],"defaultLayouts":{},"gatsbyRemarkPlugins":[],"lessBabel":false,"remarkPlugins":[],"rehypePlugins":[],"mediaTypes":["text/markdown","text/x-markdown"],"root":"C:\\Users\\Corey\\Desktop\\blog"},
     }]
 /* global plugins */
 // During bootstrap, we write requires at top of this file which looks like:
