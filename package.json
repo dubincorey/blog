@@ -13,7 +13,6 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "postinstall": "cd plugins/gatsby-source-cloud && npm i"
   },
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
