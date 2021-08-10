@@ -2,11 +2,12 @@ import * as React from "react";
 import Layout from "../../components/layout";
 import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
+import { italics } from "../../pages/layout.module.css";
 
 const BlogPost = ({ data }) => {
   return (
     <Layout pageTitle={data.mdx.frontmatter.title}>
-      <p>{data.mdx.frontmatter.date}</p>
+      <p className={italics}>{data.mdx.frontmatter.date}</p>
       <MDXRenderer>{data.mdx.body}</MDXRenderer>
     </Layout>
   );

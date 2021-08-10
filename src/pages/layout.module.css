@@ -76,3 +76,7 @@ p {
 .inner-border {
   margin: 30px 50px;
 }
+
+.italics {
+  font-style: italic;
+}
