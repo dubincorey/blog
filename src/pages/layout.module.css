@@ -19,11 +19,15 @@
   padding-right: 2rem;
 }
 .nav-link-text {
-  color: black;
+  color: #212121;
 }
 
 body {
-  background-color: #00a6d2;
+  background-color: #ffffff;
+}
+
+a {
+  color: #212121;
 }
 
 .outer-border {
@@ -36,11 +40,11 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  border-style: solid;
-  border-color: black;
+  border-style: none none none solid;
+  border-color: #212121;
   border-width: 1px;
   position: fixed;
-  z-index: 100;
+  pointer-events: none;
 }
 
 .landing-container {
@@ -64,7 +68,7 @@ body {
 }
 
 p {
-  color: black;
+  color: #212121;
   font-size: 1.5rem;
   line-height: 1.5em;
 }
