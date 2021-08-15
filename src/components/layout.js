@@ -9,7 +9,7 @@ import {
   outerBorder,
   decor,
   innerBorder,
-} from "../pages/layout.module.css";
+} from "../templates/layout.module.css";
 
 const Layout = ({ pageTitle, children }) => {
   return (
