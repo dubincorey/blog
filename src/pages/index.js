@@ -4,7 +4,7 @@ import { disclaimer } from "./layout.module.css";
 
 const IndexPage = () => {
   return (
-    <Layout pageTitle="QuickFi">
+    <Layout pageTitle="CDFI">
       <p>
         I'm going to share my experiences and understanding of personal finance
         and other interesting things to me!
