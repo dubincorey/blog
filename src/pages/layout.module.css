@@ -80,3 +80,7 @@ p {
 .italics {
   font-style: italic;
 }
+
+#disclaimer {
+  padding-top: 35%;
+}
