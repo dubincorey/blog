@@ -46,6 +46,11 @@ a {
   position: fixed;
   pointer-events: none;
 }
+@media screen and (max-width: 600px) {
+  .decor {
+    display: none;
+  }
+}
 
 .landing-container {
   display: flex;
